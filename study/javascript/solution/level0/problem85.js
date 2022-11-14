@@ -6,5 +6,3 @@ function solution(n) {
     }
     return answer;
 }
-
-// add: 저주의 숫자 3
